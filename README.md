@@ -1,2 +1,2 @@
 # ethernautSolutions
-ethernautSolutions
+ethernautSolutions for exercises
